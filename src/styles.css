@@ -12,10 +12,15 @@ body {
   margin: 80px auto;
 }
 
+.main h1 {
+  font-size: 82px;
+}
+
 h1 {
   color: var(--primary-color);
   font-size: 98px;
   font-family: "Playfair Display";
+  text-align: center;
 }
 
 .navigation-links {
